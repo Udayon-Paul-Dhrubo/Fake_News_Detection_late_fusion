@@ -45,6 +45,7 @@ csv_fname = 'multimodal_train.tsv'
 ```
 - then run the code to pretrain
 ```bash
+cd resnet
 python main.py
 ```
 
