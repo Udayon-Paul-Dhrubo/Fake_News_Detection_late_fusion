@@ -1,0 +1,8 @@
+*.tsv
+*.pt
+bert_model_save
+bert_save_dir/
+
+all_samples
+multimodal_only_samples
+images
